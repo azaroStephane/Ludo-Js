@@ -18,7 +18,7 @@ Le projet est structuré comme suit :
 
 ## Installation
 
-1. installer l'estension "live server" dans vscode
+1. installer l'extension "live server" dans vscode
 2. Ouvrez le fichier `index.html` dans vscode faites un clique droit et selectionnez  "open with live server".
 
 ## Utilisation
